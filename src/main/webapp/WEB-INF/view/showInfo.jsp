@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+
+${message}
+
+</body>
+</html>
